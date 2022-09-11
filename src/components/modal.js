@@ -64,7 +64,7 @@ export default function Modal({ todo, closeModal }) {
                             <button
                                 type="submit"
                                 onClick={handleUpdate}
-                                className="w-full text-white bg-indigo-700 hover:bg-indigo-800 focus:ring-4 focus:outline-none focus:ring-indigo-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-indigo-800"
+                                className="w-full text-white bg-violet-700 hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bviolet-600 dark:hover:bviolet-700 dark:focus:ring-violet-800"
                             >
                                 Update Todo
                             </button>
